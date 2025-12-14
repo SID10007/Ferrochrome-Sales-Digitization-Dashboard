@@ -1,0 +1,30 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.tmp
+*.log
+
+# Office temporary files
+~$*
