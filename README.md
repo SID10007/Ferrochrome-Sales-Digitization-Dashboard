@@ -10,6 +10,13 @@ This project focuses on digitizing and automating the domestic Ferrochrome sales
 
 ---
 
+## 📊 Screenshots
+
+<img width="1655" height="773" alt="image" src="https://github.com/user-attachments/assets/dc72be17-175f-4a80-b970-0e220fca9b94" />
+<img width="1822" height="769" alt="image" src="https://github.com/user-attachments/assets/dd70c516-c4cc-46b1-bc70-b194309648c1" />
+
+---
+
 ## 🎯 Problem Statement
 
 ### Existing Process Challenges
@@ -171,26 +178,3 @@ This project demonstrates:
 - **Process Digitization**: Transforming manual processes into automated systems
 
 ---
-
-## 👤 Author
-
-**Internship Project** - Tata Steel Mining  
-*Focus: Digitization & Automation in Domestic Sales Analytics*
-
----
-
-## 📄 License
-
-This project is proprietary and confidential to Tata Steel Mining.
-
----
-
-## 📞 Contact & Support
-
-For questions or support regarding this dashboard, please contact the Sales Analytics team at Tata Steel Mining.
-
----
-
-**Last Updated**: 2024  
-**Version**: 1.0
-
